@@ -17,4 +17,5 @@
 #How to install this project
 
 1.Clone this project
-2.npm i
+2.cd angular-ecommerce
+3.npm start 
