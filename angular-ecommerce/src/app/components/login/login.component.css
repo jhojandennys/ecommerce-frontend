@@ -1,0 +1,12 @@
+.Sign-In{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    border: 2px solid #008000; /* Esto agrega un borde de 2px sólido y color verde oscuro al botón */
+    width: 300px; /* Ajusta el ancho del botón según tus necesidades */
+    border-radius: 10px; /* Esto define el radio de las esquinas */
+    padding: 5px 10px; /* Reducí el espacio alrededor del texto dentro del botón */
+    cursor: pointer; /* Esto cambia el cursor al pasar sobre el botón */
+  font-size: 16px; /* Esto ajusta el tamaño del texto en el botón */
+
+}
